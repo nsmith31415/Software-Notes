@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/GoTH Stack.md",
+                "file": "Learning/Machine Learning/Machine Learning with scikit-learn - LinkedIn Course.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -73,11 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 443.5
   },
   "right": {
     "id": "6784d7c4b5fd9c11",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/GoTH Stack.md",
+                "file": "Learning/Machine Learning/Machine Learning with scikit-learn - LinkedIn Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/GoTH Stack.md",
+                "file": "Learning/Machine Learning/Machine Learning with scikit-learn - LinkedIn Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/GoTH Stack.md"
+                "file": "Learning/Machine Learning/Machine Learning with scikit-learn - LinkedIn Course.md"
               }
             }
           },
@@ -166,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e52ad867bebce8d6",
+  "active": "7aaa535bfde9739e",
   "lastOpenFiles": [
     "Brag Docs/Home.md",
     "Learning/GoTH Stack.md",

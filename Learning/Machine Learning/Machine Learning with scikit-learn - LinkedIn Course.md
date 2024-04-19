@@ -1,4 +1,4 @@
-#linkedinlearning #machinelearning #home
+#linkedinlearning #machinelearning
 [course link](https://www.linkedin.com/learning/machine-learning-with-scikit-learn)
 ### Why use scikit-learn with machine learning?
 * Open Source
