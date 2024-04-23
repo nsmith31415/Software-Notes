@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Machine Learning/Machine Learning with scikit-learn - LinkedIn Course.md",
+                "file": "Brag Docs/Amazon/Scrivener.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,12 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 260.5
   },
   "right": {
     "id": "6784d7c4b5fd9c11",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Machine Learning/Machine Learning with scikit-learn - LinkedIn Course.md",
+                "file": "Brag Docs/Amazon/Scrivener.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Machine Learning/Machine Learning with scikit-learn - LinkedIn Course.md",
+                "file": "Brag Docs/Amazon/Scrivener.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Machine Learning/Machine Learning with scikit-learn - LinkedIn Course.md"
+                "file": "Brag Docs/Amazon/Scrivener.md"
               }
             }
           },
@@ -167,18 +166,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7aaa535bfde9739e",
+  "active": "e52ad867bebce8d6",
   "lastOpenFiles": [
-    "Brag Docs/Home.md",
-    "Learning/GoTH Stack.md",
+    "Brag Docs/Amazon/Network Neighbor Checking.md",
+    "Brag Docs/Amazon/Scrivener.md",
+    "Learning/Software Architecture Patterns for Serverless Systems/Section1.md",
     "Learning/Software Architecture Patterns for Serverless Systems/Home.md",
+    "Learning/Machine Learning/Machine Learning with scikit-learn - LinkedIn Course.md",
+    "Brag Docs/Home.md",
+    "Brag Docs/Amazon/Helpdesk.md",
+    "Brag Docs/Amazon/Event Timeline.md",
+    "Learning/GoTH Stack.md",
     "Brag Docs/OSI",
     "Brag Docs/Amazon",
     "Brag Docs",
     "Brag Doc",
     "Projects",
     "Learning/Software Architecture Patterns for Serverless Systems",
-    "Learning",
-    "Learning/Software Architecture Patterns for Serverless Systems/Section1.md"
+    "Learning"
   ]
 }
