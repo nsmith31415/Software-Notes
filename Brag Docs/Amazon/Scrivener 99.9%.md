@@ -1,5 +1,6 @@
 #brag #amazon 
 
+Problem: We don't know how many devices scrivener is successfully capable of routing to 
 Turn into full doc:
 On code push: 
 Generation Tests
